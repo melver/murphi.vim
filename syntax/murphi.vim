@@ -18,6 +18,7 @@ syn keyword murphiKeyword       begin
 syn keyword murphiType          boolean
 syn keyword murphiKeyword       by
 syn keyword murphiLabel         case
+syn keyword murphiKeyword       choose
 syn keyword murphiKeyword       clear
 syn keyword murphiLabel         const
 syn keyword murphiRepeat        do
@@ -25,6 +26,7 @@ syn keyword murphiConditional   else
 syn keyword murphiConditional   elsif
 syn keyword murphiKeyword       end
 syn keyword murphiKeyword       endalias
+syn keyword murphiKeyword       endchoose
 syn keyword murphiRepeat        endexists
 syn keyword murphiRepeat        endfor
 syn keyword murphiRepeat        endforall
